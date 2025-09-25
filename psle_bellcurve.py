@@ -28,7 +28,7 @@ plt.plot(x, curve2, 'r-', linewidth=3, label='PSLE SCORE', alpha=0.7)
 
 plt.axvline(x=16, color='blue', linestyle='--', alpha=0.5, label='Median (16)')
 plt.axvline(x=11, color='red', linestyle='--', alpha=0.5, label='Median (11)')
-
+#Created by Gao Le
 
 plt.xlabel('AL SCORE', fontsize=12)
 plt.ylabel('Number of Students', fontsize=12)
